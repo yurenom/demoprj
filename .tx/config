@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[integration-gh-using-tx-client.en-us-json]
+file_filter = src/resources/locale/<lang>.json
+minimum_perc = 0
+source_file = src/resources/locale/en-US.json
+source_lang = en_US
+type = KEYVALUEJSON
+
