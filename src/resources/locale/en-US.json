@@ -3,5 +3,6 @@
 	"message": "This is a test message",
 	"popup-message": "This is an alert",
 	"warning-message": "This is a warning",
-	"error-message": "This is an error"
+	"error-message": "This is an error",
+	"succes-message": "This is a success"
 }
