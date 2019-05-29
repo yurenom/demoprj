@@ -10,6 +10,7 @@ type = KEYVALUEJSON
 
 [integration-gh-using-tx-client.resourcesen-usresx]
 file_filter = translations/integration-gh-using-tx-client.resourcesen-usresx/<lang>.resx
+source_file = src/resources/locales/Resources.en-US.resx
 source_lang = en_US
 type = RESX
 
