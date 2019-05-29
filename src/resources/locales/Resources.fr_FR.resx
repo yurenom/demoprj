@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="COVERLETTER_TEXT9" xml:space="preserve">
-    <value></value>
+    <value>Cordialement,</value>
     <comment>Cover Letter Text</comment>
   </data>
   <data name="CUSTOMER_CONFIRMATION_DATE" xml:space="preserve">

@@ -1,6 +1,6 @@
 {
-	"greet": "",
-	"message": "",
-	"popup-message": "",
-	"warning-message": ""
+	"greet": "Hello world",
+	"message": "Ceci est un message test",
+	"popup-message": "Ceci est une alerte",
+	"warning-message": "This is a warning"
 }
