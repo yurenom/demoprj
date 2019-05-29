@@ -2,14 +2,14 @@
 host = https://www.transifex.com
 
 [integration-gh-using-tx-client.en-us-json]
-file_filter = translations/integration-gh-using-tx-client.en-us-json/<lang>.json
+file_filter = src/resources/locales/<lang>.json
 minimum_perc = 0
 source_file = src/resources/locales/en-US.json
 source_lang = en_US
 type = KEYVALUEJSON
 
 [integration-gh-using-tx-client.resourcesen-usresx]
-file_filter = translations/integration-gh-using-tx-client.resourcesen-usresx/<lang>.resx
+file_filter = src/resources/locales/Resources.<lang>.resx
 source_file = src/resources/locales/Resources.en-US.resx
 source_lang = en_US
 type = RESX
