@@ -130,7 +130,7 @@
     <comment>DocumentService/CreateConfirmationForm</comment>
   </data>
   <data name="CUSTOMER_CONFIRMATION_HEADER" xml:space="preserve">
-    <value>¿Cómo usar esta forma?</value>
+    <value>¿Cómo usar este formulario?</value>
     <comment>DocumentService/CreateConfirmationForm</comment>
   </data>
   <data name="CUSTOMER_CONFIRMATION_INVOICE_INVOICEAMOUNT" xml:space="preserve">

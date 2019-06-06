@@ -13,4 +13,3 @@ file_filter = src/resources/locales/Resources.<lang>.resx
 source_file = src/resources/locales/Resources.en-US.resx
 source_lang = en_US
 type = RESX
-
