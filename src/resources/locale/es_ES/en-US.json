@@ -1,0 +1,6 @@
+{
+	"greet": "Hola mundo",
+	"message": "Este es un mensaje de prueba",
+	"popup-message": "Esta es una alerta",
+	"warning-message": "Esta es una advertencia"
+}
